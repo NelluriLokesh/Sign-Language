@@ -1,5 +1,5 @@
 # Sign Language Detection
-
+(Model is more than 25MB... if you want the Trained Model.. just pin me lokesh.nelluri12@gmail.com)
 ## Overview
 This project uses a trained deep learning model to recognize sign language gestures from images. The model is built using TensorFlow and Keras and predicts alphabetic signs (A-Z) based on input images from a test dataset.
 
