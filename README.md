@@ -20,9 +20,7 @@ pip install tensorflow numpy pandas opencv-python
 ```
 Sign-Language-detection/
 │── sign_language_model.h5  # Pretrained model file
-│── testdatabase/           # Folder containing test images
 │── script.py               # The main script for prediction
-│── sign_language_predictions.csv  # Output file with predictions
 ```
 
 ## How to Use
